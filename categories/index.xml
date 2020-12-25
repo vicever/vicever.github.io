@@ -12,38 +12,11 @@
     
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>https://zhanggs.com/categories/hugo/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://zhanggs.com/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://zhanggs.com/categories/markdown/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhanggs.com/categories/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://zhanggs.com/categories/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhanggs.com/categories/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://zhanggs.com/categories/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhanggs.com/categories/jekyll/</guid>
       <description></description>
     </item>
     
