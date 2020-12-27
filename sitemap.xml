@@ -3,38 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.zhanggs.com/blog/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <loc>https://zhanggs.com/blog/2020-12-25-%E6%96%B0%E5%B9%B4flag/</loc>
+    <lastmod>2020-12-25T15:42:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhanggs.com/blog/</loc>
+    <lastmod>2020-12-25T15:42:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.zhanggs.com/blog/hugo-blog-setup/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhanggs.com/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <loc>https://zhanggs.com/</loc>
+    <lastmod>2020-12-25T15:42:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.zhanggs.com/about/</loc>
+    <loc>https://zhanggs.com/blog/hugo-blog-setup/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhanggs.com/about/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.zhanggs.com/contact/</loc>
+    <loc>https://zhanggs.com/contact/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.zhanggs.com/contact/_index.br/</loc>
+    <loc>https://zhanggs.com/contact/_index.br/</loc>
   </url>
   
   <url>
-    <loc>https://www.zhanggs.com/tags/</loc>
+    <loc>https://zhanggs.com/tags/</loc>
     <priority>0</priority>
   </url>
   
