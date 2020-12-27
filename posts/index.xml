@@ -1,0 +1,259 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on 胜算有吾</title>
+		<link>https://zhanggs.com/posts/</link>
+		<description>Recent content in Posts on 胜算有吾</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-hans</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Fri, 25 Dec 2020 15:42:17 +0800</lastBuildDate>
+		<atom:link href="https://zhanggs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>2021新年立下FLAG</title>
+			<link>https://zhanggs.com/posts/2020-12-25-%E6%96%B0%E5%B9%B4flag/</link>
+			<pubDate>Fri, 25 Dec 2020 15:42:17 +0800</pubDate>
+			
+			<guid>https://zhanggs.com/posts/2020-12-25-%E6%96%B0%E5%B9%B4flag/</guid>
+			<description> 2020年的年尾，再立FLAG __于2020-12-25 多读书，读好书  读数据体系的书 读团队管理的书 读商业管理的书 读毛选  多记录，多交流  坚持写blog，每周1-2篇，同步到公众号 做分享，每个月跟团队分享一个主题【有点难】 多参与外部交流，全年2-4次  多学习，多实践  学混沌大学创新，学第二曲线 参与到天池，打完两个比赛 集中两个月，打点LeetCode  多运动，多操作  跑步跑起来，每周一个5公里 坚持有空就去踢球 动手动起来，写个管理的系统 再来个API管理的系统  多社交，多赚钱  多认识行业大佬，多做行业交流 找找空间，从自媒体、行业指导入手，寻找市场价值 理财&amp;amp;股票，搞懂弄通，抓收益  </description>
+			<content type="html"><![CDATA[
+
+<h4 id="2020年的年尾-再立flag-于2020-12-25">2020年的年尾，再立FLAG  __于2020-12-25</h4>
+
+<hr />
+
+<h3 id="多读书-读好书">多读书，读好书</h3>
+
+<ul>
+<li>读数据体系的书</li>
+<li>读团队管理的书</li>
+<li>读商业管理的书</li>
+<li>读毛选</li>
+</ul>
+
+<h3 id="多记录-多交流">多记录，多交流</h3>
+
+<ul>
+<li>坚持写blog，每周1-2篇，同步到公众号</li>
+<li>做分享，每个月跟团队分享一个主题【有点难】</li>
+<li>多参与外部交流，全年2-4次</li>
+</ul>
+
+<h3 id="多学习-多实践">多学习，多实践</h3>
+
+<ul>
+<li>学混沌大学创新，学第二曲线</li>
+<li>参与到天池，打完两个比赛</li>
+<li>集中两个月，打点LeetCode</li>
+</ul>
+
+<h3 id="多运动-多操作">多运动，多操作</h3>
+
+<ul>
+<li>跑步跑起来，每周一个5公里</li>
+<li>坚持有空就去踢球</li>
+<li>动手动起来，写个管理的系统</li>
+<li>再来个API管理的系统</li>
+</ul>
+
+<h3 id="多社交-多赚钱">多社交，多赚钱</h3>
+
+<ul>
+<li>多认识行业大佬，多做行业交流</li>
+<li>找找空间，从自媒体、行业指导入手，寻找市场价值</li>
+<li>理财&amp;股票，搞懂弄通，抓收益</li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>站点搭建手册</title>
+			<link>https://zhanggs.com/posts/hugo-blog-setup/</link>
+			<pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://zhanggs.com/posts/hugo-blog-setup/</guid>
+			<description>如何用 HUGO 搭建个人站点，并挂载到 github pages 上 会用到的资源链接：
+HUGO
+Themes:Hugo Future Imperfect Slim
+github pags
+Step 1. 安装 hugo 在 mac 上，安装 hugo 很方便，直接用 Homebrew 就可以了。没有的自行搜索操作步骤。
+$brew install hugo  验证下安装是否成功
+$hugo version Hugo Static Site Generator v0.56.3/extended darwin/amd64 BuildDate: unknown  Step 2. 新建一个站点 来到自己的项目目录下，新建一个 hugo 的站点
+不需要自行新建目录，new site 的时候会新增一个目录
+$hugo new site myblog Congratulations! Your new Hugo site is created in /Users/Document/myblog. Just a few more steps and you&#39;re ready to go: 1.</description>
+			<content type="html"><![CDATA[
+
+<hr />
+
+<h3 id="如何用-hugo-搭建个人站点-并挂载到-github-pages-上">如何用 HUGO 搭建个人站点，并挂载到 github pages 上</h3>
+
+<p>会用到的资源链接：<br />
+ <a href="https://gohugo.io">HUGO</a><br />
+ <a href="https://themes.gohugo.io/hugo-future-imperfect-slim/">Themes:Hugo Future Imperfect Slim</a><br />
+ <a href="https://pages.github.com/">github pags</a></p>
+
+<h2 id="step-1-安装-hugo">Step 1. 安装 hugo</h2>
+
+<p>在 mac 上，安装 hugo 很方便，直接用 Homebrew 就可以了。没有的自行搜索操作步骤。</p>
+
+<pre><code>$brew install hugo
+</code></pre>
+
+<p>验证下安装是否成功</p>
+
+<pre><code>$hugo version
+Hugo Static Site Generator v0.56.3/extended darwin/amd64 BuildDate: unknown
+</code></pre>
+
+<h2 id="step-2-新建一个站点">Step 2. 新建一个站点</h2>
+
+<p>来到自己的项目目录下，新建一个 hugo 的站点<br />
+不需要自行新建目录，new site 的时候会新增一个目录</p>
+
+<pre><code>$hugo new site myblog  
+Congratulations! Your new Hugo site is created in /Users/Document/myblog.
+
+Just a few more steps and you're ready to go:
+
+1. Download a theme into the same-named folder.
+   Choose a theme from https://themes.gohugo.io/ or
+   create your own with the &quot;hugo new theme &lt;THEMENAME&gt;&quot; command.
+2. Perhaps you want to add some content. You can add single files
+   with &quot;hugo new &lt;SECTIONNAME&gt;/&lt;FILENAME&gt;.&lt;FORMAT&gt;&quot;.
+3. Start the built-in live server via &quot;hugo server&quot;.
+
+</code></pre>
+
+<p>可以试试能不能跑起来</p>
+
+<pre><code>$hugo server
+
+Building sites … WARN 2019/08/14 16:05:48 found no layout file for &quot;HTML&quot; for &quot;home&quot;: You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/14 16:05:48 found no layout file for &quot;HTML&quot; for &quot;taxonomyTerm&quot;: You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/14 16:05:48 found no layout file for &quot;HTML&quot; for &quot;taxonomyTerm&quot;: You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+
+                   | EN
++------------------+----+
+  Pages            |  3
+  Paginator pages  |  0
+  Non-page files   |  0
+  Static files     |  0
+  Processed images |  0
+  Aliases          |  0
+  Sitemaps         |  1
+  Cleaned          |  0
+
+Total in 7 ms
+Watching for changes in /Users/zhangguangsheng/Documents/sourcecode/tmp/temp/{archetypes,content,data,layouts,static}
+Watching for config changes in /Users/zhangguangsheng/Documents/sourcecode/tmp/temp/config.toml
+Environment: &quot;development&quot;
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+</code></pre>
+
+<p>打开连接看看 <a href="http://localhost:1313/">http://localhost:1313/</a></p>
+
+<p>hugo就这点不好，它的默认配置是啥也没有的，只有个简单的空页面，都需要自行配置的。看到个大白页面也不用着急，正常现象。</p>
+
+<h2 id="step-3-加载一个主题">Step 3. 加载一个主题</h2>
+
+<p>不能就这么大白板放着啊，加个主题吧！<br />
+可以去它的主题站点去找一个<a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a>，还是有不少能看的。我看上了<a href="https://themes.gohugo.io/hugo-future-imperfect-slim/">Hugo Future Imperfect Slim</a>
+下载到本地先</p>
+
+<pre><code>$mkdir themes // Creates a Themes Folder
+$cd themes		 // Points to the Themes Folder
+$git clone https://github.com/pacollins/hugo-future-imperfect-slim.git
+</code></pre>
+
+<p>这个时候如果直接去 <code>hugo server</code>一下，你会发现页面乱套了，淡定！！！<br />
+现在需要把配置文件给配上，如果简单点的话，直接上 copy 大法，把 主题下examplesite 的内容都复制到站点目录里面。</p>
+
+<pre><code>$cp -R themes/hugo-future-imperfect-slim/exampleSite/ ./
+$hugo server
+</code></pre>
+
+<p>这下在看下 <a href="http://localhost:1313/">http://localhost:1313/</a>， 干得漂亮。</p>
+
+<p>然后就需要根据自己的需要，改 config.toml 的内容。以及 content 里面的文章内容（都删了，一会儿自己写）</p>
+
+<h2 id="step-4-提交到-github-io上">Step 4. 提交到 github.io上</h2>
+
+<p>需要在 github 上建立两个项目，一个用来放这个站点的源代码，包括各种配置、主题、资源等，就是 hugo 建的这个。还有一个项目是github pages 的项目，这个就是站点的静态资源信息。
+如何建个普通项目就不说了，到处都是，找一个就行。特别注意建立的 github pages 的项目，项目名称必须是&lt;用户名&gt;.github.io，项目地址是：<a href="https://github.com/">https://github.com/</a>&lt;用户名&gt;/&lt;用户名&gt;.github.io，而后就能通过 http://&lt;用户名&gt;.github.io 的地址来访问。</p>
+
+<h4 id="提交项目源码">提交项目源码</h4>
+
+<p>举例：项目源代码的项目目录为 myblog，github用户名为 hugo</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nv">$cd</span> myblog
+<span class="nv">$git</span> init
+<span class="nv">$git</span> add .
+<span class="nv">$git</span> remote add origin https://github.com/hugo/myblog.git
+<span class="nv">$git</span> commit -m<span class="s2">&#34;xxxxx&#34;</span>
+<span class="nv">$git</span> push origin master</code></pre></div>
+<p>现在到<a href="https://github.com/hugo/myblog">https://github.com/hugo/myblog</a> 看看代码提交情况。</p>
+
+<h4 id="提交-pages-站点代码">提交 pages 站点代码</h4>
+
+<p>public 目录里面保存的都是最终站点需要展示的静态文件。之前一顿折腾总是留下些乱七八糟的东西，斩断重来吧！！</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nv">$rm</span> -rf public
+<span class="nv">$git</span> submodule add -b master https://github.com/hugo/hugo.github.io.git public</code></pre></div>
+<p>然后就要提交内容了，鉴于每次提交一下流程都要操作一次，所以可以写成脚本。<br />
+新建一个<code>deploy.sh</code>的文件，并把它设为可执行<code>$chmod +x deploy.sh</code>。然后我们编辑这个文件成下面这样。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="cp">#!/bin/sh
+</span><span class="cp"></span>
+<span class="c1"># If a command fails then the deploy stops</span>
+<span class="nb">set</span> -e
+
+<span class="nb">printf</span> <span class="s2">&#34;\033[0;32mDeploying updates to GitHub...\033[0m\n&#34;</span>
+
+<span class="c1"># Build the project.</span>
+hugo <span class="c1"># if using a theme, replace with `hugo -t &lt;YOURTHEME&gt;`</span>
+
+<span class="c1"># Go To Public folder</span>
+<span class="nb">cd</span> public
+
+<span class="c1"># Add changes to git.</span>
+git add .
+
+<span class="c1"># Commit changes.</span>
+<span class="nv">msg</span><span class="o">=</span><span class="s2">&#34;rebuilding site </span><span class="k">$(</span>date<span class="k">)</span><span class="s2">&#34;</span>
+<span class="k">if</span> <span class="o">[</span> -n <span class="s2">&#34;</span><span class="nv">$*</span><span class="s2">&#34;</span> <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
+	<span class="nv">msg</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$*</span><span class="s2">&#34;</span>
+<span class="k">fi</span>
+git commit -m <span class="s2">&#34;</span><span class="nv">$msg</span><span class="s2">&#34;</span>
+
+<span class="c1"># Push source and build repos.</span>
+git push origin master</code></pre></div>
+<p>然后就可以执行<code>./deploy.sh &quot;你的提交注释&quot;</code>，一顿操作猛如虎，然后等一会可以上<a href="https://hugo.github.io">https://hugo.github.io</a>看站点了。</p>
+
+<h2 id="step-5-绑定自己的域名">Step 5. 绑定自己的域名</h2>
+
+<p>虽然 github.io 的站点和域名是免费的，但是不够个性，站点养不起，域名还是可以买一个的。怎么买就不在这里介绍了。
+现在假如你已经有了自己的域名hugo.io，需要做两件事：</p>
+
+<h4 id="1-让这个域名指向-github-io">1. 让这个域名指向 github.io</h4>
+
+<p>具体操作可以看 github 的<a href="https://help.github.com/cn/articles/quick-start-setting-up-a-custom-domain">官方说明</a></p>
+
+<h4 id="2-让这个站点知道自己叫这个并响应">2. 让这个站点知道自己叫这个并响应</h4>
+
+<p>在<code>public</code>目录中新建一个文本文件，取名为<code>CNAME</code>，这个文件的内容就一个，你的域名，比如<code>hugo.io</code>。完全按照这个格式来，别的都不用。
+有了这个站点就知道原来自己就是<code>hugo.io</code>了。</p>
+
+<h2 id="step-6-写一个文章并发布试试">Step 6. 写一个文章并发布试试</h2>
+
+<p>为了保证格式的有效性，最好以现有的内容为模板进行修改，包括很多的配置要求，都沿用 examplesite 里面的内容。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nv">$hugo</span> new blog/my-first-blog.md</code></pre></div>
+<p>然后用文本编辑工具编辑这个 md 文件就行了，它是遵循的 markdown 的文件格式。</p>
+
+<p>完成编辑之后，运行发布脚本<code>./deploy.sh</code></p>
+
+<p><strong>ENJOY IT</strong></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

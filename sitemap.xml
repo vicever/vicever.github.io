@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhanggs.com/blog/2020-12-25-%E6%96%B0%E5%B9%B4flag/</loc>
+    <loc>https://zhanggs.com/posts/2020-12-25-%E6%96%B0%E5%B9%B4flag/</loc>
     <lastmod>2020-12-25T15:42:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhanggs.com/blog/</loc>
+    <loc>https://zhanggs.com/posts/</loc>
     <lastmod>2020-12-25T15:42:17+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://zhanggs.com/blog/hugo-blog-setup/</loc>
+    <loc>https://zhanggs.com/posts/hugo-blog-setup/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url>
   
